@@ -4,7 +4,7 @@ by **Henson Shi**
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is a year-long project all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-## Choosting my topic
+## Choosing my topic
 
 For my project, I chose the topic of Business mostly have the ability to provide money. Besides these, other reason for picking my topic is because of its involvement in many other big ideas as business itself is quite a broad topic that can be adapted by basically anything giving me a lot more freedom when it comes to doing so. Other topics ive considered are accounting as well as finance because they, like business can help provide me with money however the diversity slims when considering what to do within that topic as it really is just one idea as a whole.Some articles I looked at for these topics were [How Technology is Transforming the Accounting Profession](https://www.njcpa.org/article/2025/01/10/how-technology-is-transforming-the-accounting-profession)" by NJCPA and [Technology's impact on Active Investing](https://partners-cap.com/insights/technologys-impact-on-active-investing) by Partner's Capital which though both interesting, however were both very limited in things they did. This ultimately came out with me choosing business as the article of [What Is Business Technology?](https://www.indeed.com/career-advice/career-development/what-is-business-technology) though similair, talked about more broad ideas as well which though not affecting much, allowed me to fully consider business as my idea.
 ## Progression
