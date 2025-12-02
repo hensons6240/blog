@@ -8,7 +8,9 @@ During this time, we also had to work on our [content.md](https://github.com/hen
 I am currently on the Create a prototype portion of our project as the fact that I only have a single invention because of the difficult around finding multiple allowed me to pick the most promising solution, my only solution. Although we haven't went into much detail, I plan on figuring out ways so that my invention the "Flying Box" can be more affective then the backpack as although the idea makes it way better, it may have issues elsewhere such as flying method. 
 
 ## Skills
-Consideration - I believe to have earned the skill of consideration as I took into detail of how this could benefit people and tried fitting it in a way that could benefit the needy as well as shown in my  [content.md](https://github.com/hensons6240/sep10-freedom-project/blob/main/prep/content.md). It involved ways to help the disabled and also considered enviornmental damage.
+**Consideration** - I believe to have earned the skill of consideration as I took into detail of how this could benefit people and tried fitting it in a way that could benefit the needy as well as shown in my  [content.md](https://github.com/hensons6240/sep10-freedom-project/blob/main/prep/content.md). It involved ways to help the disabled and also considered enviornmental damage.
+
+**Creativity** -  The idea of coming up an invention especially in this day and age was very challenging. Most ideas were taken and many ideas are very similair. Even now I based my invention on a need and existing technology, the drone to come up with this. Although the name of 'Flying Box' sounds very basic and probably should be changed, the addons and other utility I added made it a lot more interesting I believe.
 
 
 
