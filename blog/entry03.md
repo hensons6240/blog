@@ -4,6 +4,12 @@ In this entry, we talk about what future inventions or gadgets that we could com
 
 During this time, we also had to work on our [content.md](https://github.com/hensons6240/sep10-freedom-project/blob/main/prep/content.md) where we organized all our content throughout our many steps. Alongside our invention, we had to add bulletpoints and properly organize our content about existing software and gadgets as well as a section on our own invention.
 
+## Engineering Design Progress
+I am currently on the Create a prototype portion of our project as the fact that I only have a single invention because of the difficult around finding multiple allowed me to pick the most promising solution, my only solution. Although we haven't went into much detail, I plan on figuring out ways so that my invention the "Flying Box" can be more affective then the backpack as although the idea makes it way better, it may have issues elsewhere such as flying method. 
+
+## Skills
+Consideration - I believe to have earned the skill of consideration as I took into detail of how this could benefit people and tried fitting it in a way that could benefit the needy as well as shown in my  [content.md](https://github.com/hensons6240/sep10-freedom-project/blob/main/prep/content.md). It involved ways to help the disabled and also considered enviornmental damage.
+
 
 
 
