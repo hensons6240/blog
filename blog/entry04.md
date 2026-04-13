@@ -41,6 +41,11 @@ Though small, it takes quite a bit of code to make:
   </table>
 ```
 The `<table>` makes a table, `<tr` stands for the rows which we can see there are two, `<th>` stands for heading which can signify what the that columm is about if used properly (I didn't). `<td>`, like `<th>` is in a row but instead standing for each cell, which is the makeup for the stuff below the headers. You can tweak and tinker with the table by adding more rows, columms, or cells.
+## Skills
+1. Attention to Detail, I believe that I have developed this skill because it was what allowed me to learn some cool things about each element. At first, the progress was just copy n pastsed, without looking at its makeup which was later what helped me learn how it truly worked. I learned that its "value" and "max" played a big part in how it ended up looking.
+2. How to read. I believe that I developed this skill because it was what allowed me to utilize the table properly. At first, I was trying to base my own table off of an example which was way too advanced because it had a lot of data so the code was smore difficult to read. Instead, I altered to learn what each part did beforehand and then was successfully able to make my own table.
+## Conclusion
+As I continue learning about Bulma, Im excited on not only learning how to use Bulma but also new elements/components. Since bulma adds css to existing html elements, I can not only learn how to decorate those properties but those properties in general. Going into this, I didn't know about <table> or <progress> inside of html.
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
